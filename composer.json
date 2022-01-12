@@ -1,0 +1,17 @@
+{
+    "name": "khaledmostafa/backup-man",
+    "description": "Backup-man used for backup sites and databases and upload them on AWS S3",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khaled Mostafa",
+            "email": "khaledmostafa297@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
